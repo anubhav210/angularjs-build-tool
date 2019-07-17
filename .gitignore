@@ -5,6 +5,8 @@
 /dist-server
 /tmp
 /out-tsc
+/public/min
+/public/min-safe
 
 # dependencies
 /node_modules
