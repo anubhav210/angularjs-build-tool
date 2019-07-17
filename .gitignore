@@ -7,6 +7,7 @@
 /out-tsc
 /public/min
 /public/min-safe
+/annoted
 
 # dependencies
 /node_modules
