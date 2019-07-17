@@ -10,4 +10,4 @@ installation guide
 1. first install node.js node package also include npm package.
 2. install grunt globally using this command `npm install -g grunt-cli`
 3. after install all dependencies which is define in package.json
-4. run this command in root directory of this repo which will run buildscript and put minified and non-minified script in dist folder.
+4. run `grunt` in root directory of this repo which will run buildscript and put minified and non-minified script in dist folder.
